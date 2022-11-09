@@ -1,0 +1,24 @@
+{
+    "Command Prefix": "!",
+    "Command Name": "stock",
+    "Delay": 1,
+    "Token": "MTAwNzAzNjMwODczODI3NzM3Ng.Gpyn0z.RYDldqsHDgdDJ06GLYbRaXWiBiGOg9_fr5iL5Y",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0",
+    
+    "bot-uk": {
+        "Size Prefix": "UK",
+        "Currency": "£",
+        "Country Domain": ".co.uk"
+    },
+    "bot-mx": {
+        "Size Prefix": "MX",
+        "Currency": "Mex$",
+        "Country Domain": ".mx"
+    },
+    "bot-us": {
+        "Size Prefix": "US",
+        "Currency": "$",
+        "Country Domain": ".com"
+    }
+
+}
